@@ -1,8 +1,9 @@
 This is an old codes which was in my drive. 
 
-This code was written with tensorflow <= 1.4.0
+### Dependencies
+This code was written with tensorflow <= 1.4.0 and python 3.5
 
-The code contains
+### Contents
 - speech data pre-processing codes (tfrecordreadwrite.py)
 - differentiable STFT (Utils.py)
 - Various speech enhancement models (net.py: U-Net, LSTM on Spectrogram, TasNet on waveform)
