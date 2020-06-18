@@ -1,4 +1,4 @@
-This is an old codes which was in my drive. 
+This is an old codes which was in my drive, which is an implementation for Multi-Domain Processing via Hybrid Denoising Networks for Speech Enhancement (2018, [arxiv](https://arxiv.org/abs/1812.08914))
 
 ### Dependencies
 This code was written with tensorflow <= 1.4.0 and python 3.5
@@ -10,3 +10,5 @@ This code was written with tensorflow <= 1.4.0 and python 3.5
 - Hybrid models (model.py)
 - Various objective functions for speech enhancement (loss.py)
 
+### Results
+![Spectrograms](./speech.PNG)
