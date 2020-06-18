@@ -22,4 +22,4 @@ Arguments are listed in *configuration.py*.
 ### Results
 ![Spectrograms](./speech.PNG)
 
-Note, 'Ours' represents a hybrid model.  
+Note, 'Ours' represents a **multi-domain hybrid** model.  
