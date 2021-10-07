@@ -1,4 +1,4 @@
-This is an old codes which was in my drive, an implementation for 
+This is an old implementation for 
 **"Multi-Domain Processing via Hybrid Denoising Networks for Speech Enhancement"**
 (2018, [arxiv](https://arxiv.org/abs/1812.08914), [demo](https://mdphdnet.github.io)).
 
